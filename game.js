@@ -7,7 +7,7 @@ let y = 0;
 
 
 function setup() {
-    bg = loadImage('773309.jpg');
+    bg = loadImage('2img.jpg');
     createCanvas(1500, 800);
     let height = 200;
     for (let i = 0; i < 30; i++) {
@@ -26,7 +26,7 @@ function draw() {
     ///background(0, 0, 0);
     background(bg);
     ///fill(97, 47, 22);
-    fill(89, 52, 235);
+    fill(255, 243, 0);
 
 
     // line(width / 2, 0, width / 2, height);
